@@ -1,5 +1,5 @@
 name:                lens-misc
-version:             0.0.1.0
+version:             0.0.2.0
 synopsis:            Handy functions when using lens
 description:         Handy functions when using lens
 homepage:            https://github.com/louispan/lens-misc#readme
@@ -19,6 +19,7 @@ library
   exposed-modules:     Control.Lens.Misc
   build-depends:       base >= 4.7 && < 5
                      , lens >= 4
+                     , template-haskell >= 2.11.0.0
   ghc-options:         -Wall
   default-language:    Haskell2010
 
