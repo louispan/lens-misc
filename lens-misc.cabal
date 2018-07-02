@@ -1,7 +1,7 @@
 name:                lens-misc
 version:             0.0.2.0
-synopsis:            Handy functions when using lens
-description:         Handy functions when using lens
+synopsis:            Miscellaneous lens utilities.
+description:         Handy functions when using lens.
 homepage:            https://github.com/louispan/lens-misc#readme
 license:             BSD3
 license-file:        LICENSE

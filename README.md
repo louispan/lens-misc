@@ -5,5 +5,7 @@ Handy functions when using lens
 
 # Changelog
 
+* 0.0.2.0
+  - Added `makeLenses_` and `makeClassy_'`, and `over'`.
 * 0.0.1.0
   - Added `over'` for a type restricted (monomorphic) version of `over`
