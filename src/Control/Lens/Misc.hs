@@ -7,3 +7,4 @@ module Control.Lens.Misc
 
 import Control.Lens.Misc.Tagged
 import Control.Lens.Misc.TH
+import Control.Lens.Misc.Zoom
