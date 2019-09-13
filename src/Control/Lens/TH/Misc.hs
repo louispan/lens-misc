@@ -1,4 +1,4 @@
-module Control.Lens.Misc.TH where
+module Control.Lens.TH.Misc where
 
 import Control.Lens
 import Control.Lens.Internal.FieldTH

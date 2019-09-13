@@ -17,9 +17,10 @@ tested-with:         GHC == 8.0.1
 library
   hs-source-dirs:      src
   exposed-modules:     Control.Lens.Misc
-                     , Control.Lens.Misc.Tagged
-                     , Control.Lens.Misc.TH
-                     , Control.Lens.Misc.Zoom
+                     , Control.Lens.Tagged.Misc
+                     , Control.Lens.TH.Misc
+                     , Control.Lens.Zoom.Misc
+                     , Data.Map.Lens.Misc
   build-depends:       base >= 4.7 && < 5
                      , alternators >= 2.0
                      , lens >= 4

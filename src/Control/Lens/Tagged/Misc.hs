@@ -1,7 +1,7 @@
 {-# LANGUAGE PolyKinds #-}
 {-# LANGUAGE RankNTypes #-}
 
-module Control.Lens.Misc.Tagged where
+module Control.Lens.Tagged.Misc where
 
 import Control.Lens
 import Data.Tagged

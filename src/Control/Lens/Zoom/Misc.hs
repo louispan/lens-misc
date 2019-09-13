@@ -1,7 +1,7 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE TypeFamilies #-}
 
-module Control.Lens.Misc.Zoom where
+module Control.Lens.Zoom.Misc where
 
 import Control.Lens
 
